@@ -2,7 +2,7 @@
 Набор утилит для решения разных задач поддержки VPN Liberty
 
 # Содержимое
-# 1. BypassRouting
+# 1. bypass_routing.py
 
 ---
 
